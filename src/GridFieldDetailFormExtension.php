@@ -1,6 +1,6 @@
 <?php
 
-namespace SilverStripe\GridFieldAddOns;
+namespace DFT\SilverStripe\GridFieldAddOns;
 
 use SilverStripe\Core\Extension;
 use SilverStripe\Forms\GridField\GridFieldDetailForm_ItemRequest;

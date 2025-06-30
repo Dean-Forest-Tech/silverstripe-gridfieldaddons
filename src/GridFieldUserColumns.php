@@ -1,6 +1,6 @@
 <?php
 
-namespace SilverStripe\GridFieldAddOns;
+namespace DFT\SilverStripe\GridFieldAddOns;
 
 use SilverStripe\ORM\ArrayList;
 use SilverStripe\View\ArrayData;

@@ -1,12 +1,11 @@
 <?php
 
-namespace SilverStripe\GridFieldAddOns;
+namespace DFT\SilverStripe\GridFieldAddOns;
 
 use SilverStripe\Core\ClassInfo;
 use SilverStripe\Core\Config\Config;
 use SilverStripe\ORM\FieldType\DBDate;
 use SilverStripe\Forms\GridField\GridField;
-use SilverStripe\Forms\GridField\GridFieldDataColumns;
 use SilverStripe\Forms\GridField\GridFieldSortableHeader;
 use SilverStripe\Forms\GridField\GridField_ColumnProvider;
 use SilverStripe\Core\Config\Configurable;

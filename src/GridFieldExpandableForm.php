@@ -1,6 +1,6 @@
 <?php
 
-namespace SilverStripe\GridFieldAddOns;
+namespace DFT\SilverStripe\GridFieldAddOns;
 
 use SilverStripe\View\Requirements;
 use SilverStripe\Core\Injector\Injector;

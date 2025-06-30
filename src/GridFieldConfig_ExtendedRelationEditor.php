@@ -1,6 +1,6 @@
 <?php
 
-namespace SilverStripe\GridFieldAddOns;
+namespace DFT\SilverStripe\GridFieldAddOns;
 
 use SilverStripe\GridFieldAddOns\GridFieldUserColumns;
 use SilverStripe\Forms\GridField\GridFieldConfig_RelationEditor;
