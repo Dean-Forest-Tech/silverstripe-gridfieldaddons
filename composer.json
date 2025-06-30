@@ -1,10 +1,10 @@
 {
-	"name":"i-lateral/silverstripe-gridfield-addons",
+	"name":"dft/silverstripe-gridfield-addons",
 	"type": "silverstripe-vendormodule",
 	"description": "GridFieldAddOns is a collection of plugins for the Silverstripe GridField.",
 	"keywords": ["silverstripe", "gridfield", "component"],
 	"license": "BSD-3-Clause",
-	"homepage": "https://github.com/i-lateral/silverstripe-GridFieldAddOns",
+	"homepage": "https://github.com/Dean-Forest-Tech/silverstripe-gridfieldaddons",
 	"authors":[
 		{
 			"name": "Andreas Piening",
@@ -21,13 +21,13 @@
 		{
 			"name": "Morven Lewis-Everley",
 			"homepage": "https://github.com/mlewis-everley",
-			"email" : "morven@ilateral.co.uk",
+			"email" : "morven@dean-forest-tech.uk",
 			"role" : "developer"
 		}
 	],
 	"require":  {
-		"silverstripe/framework": "~4.0",
-        "silverstripe/versioned": "~1.0"
+		"silverstripe/framework": "^5",
+        "silverstripe/versioned": "^2"
 	},
 	"extra": {
         "expose": [
@@ -37,11 +37,11 @@
 	},
 	"autoload": {
         "psr-4": {
-            "SilverStripe\\GridFieldAddOns\\": "src"
+            "DFT\\SilverStripe\\GridFieldAddOns\\": "src"
         }
     },
 	"support": {
-		"issues": "https://github.com/i-lateral/silverstripe-GridFieldAddOns/issues?state=open"
+		"issues": "https://github.com/Dean-Forest-Tech/silverstripe-gridfieldaddons/issues?state=open"
 	},
     "minimum-stability": "dev"
 }

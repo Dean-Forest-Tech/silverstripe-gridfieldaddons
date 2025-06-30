@@ -41,3 +41,8 @@ Ensure that react added loading screen is removed (if not done automatically)
 ## 2.0.6
 
 Allow `GridFieldColumnDateFormatter` to merge date sorting with any custom sort options
+
+## 3.0.0
+
+* Add SS5 support
+* Move out of Silverstripe namespace
