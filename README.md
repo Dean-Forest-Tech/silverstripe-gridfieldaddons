@@ -18,11 +18,11 @@ GridFieldRecordHighlighter highlights records in a GridField.
 
 GridFieldUserColumns gives users control over the columns of the GridField.
 
-[GridFieldColumnDateFormatter](docs/en/GridFieldColumnDateFormatter.md)
+### [GridFieldColumnDateFormatter](docs/en/GridFieldColumnDateFormatter.md)
 
 Allows you to re-format any dates on the GridField column provider while retaining sorting.
 
-[GridfieldCustomDetailForm](docs/en/GridFieldCustomDetailForm.md)
+### [GridfieldCustomDetailForm](docs/en/GridFieldCustomDetailForm.md)
 
 Allows you to define custom `GridFieldDetailForm_ItemRequest` for your `DataObject` via config.
 
