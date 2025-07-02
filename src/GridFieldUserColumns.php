@@ -41,8 +41,8 @@ class GridFieldUserColumns extends ViewableData implements GridField_ColumnProvi
 
         $this->init($gridField);
 
-        Requirements::javascript('i-lateral/silverstripe-gridfield-addons:javascript/GridFieldUserColumns.js');
-        Requirements::css('i-lateral/silverstripe-gridfield-addons:css/GridFieldUserColumns.css');
+        Requirements::javascript('dft/silverstripe-gridfield-addons:javascript/GridFieldUserColumns.js');
+        Requirements::css('dft/silverstripe-gridfield-addons:css/GridFieldUserColumns.css');
 
         $usercolumns = $this->currentColumns();
         $extracolumns = array_diff($columns, $this->availableColumns());
