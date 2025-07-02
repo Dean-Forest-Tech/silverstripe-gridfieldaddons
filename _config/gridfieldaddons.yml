@@ -4,4 +4,4 @@ after: '#versionedgridfield'
 ---
 SilverStripe\Forms\GridField\GridFieldDetailForm:
   extensions:
-    - SilverStripe\GridFieldAddOns\GridFieldDetailFormExtension
+    - DFT\SilverStripe\GridFieldAddOns\GridFieldDetailFormExtension
